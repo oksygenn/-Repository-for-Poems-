@@ -1,5 +1,5 @@
-Roses are red, 
-Violets are blue,
+Roses are red 
+Violets are blue
 I learn how to work with Github
 And so should you!
 :D
