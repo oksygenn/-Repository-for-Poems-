@@ -1,4 +1,4 @@
-Roses are red
+Roses are red, 
 Violets are blue
 I learn how to work with Github
 And so should you!
